@@ -1,4 +1,10 @@
-### Hi there 👋
+### Yo 🌊
+
+I'm mainly working with the follwing languages
+
+* Ruby
+* Elixir
+* Golang
 
 <!--
 **sokkalf/sokkalf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

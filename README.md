@@ -1,6 +1,6 @@
 ### Yo 🌊
 
-I'm mainly working with the follwing languages
+I'm mainly working with the following languages
 
 * Ruby
 * Elixir

@@ -2,8 +2,8 @@
 
 I'm mainly working with the following languages
 
-* Ruby
 * Elixir
+* Ruby
 * Golang
 
 <!--
